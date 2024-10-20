@@ -1,0 +1,3 @@
+"ExpenseID","CreatedBy","Amount","Participants","CreatedAt"
+"6714d12140639b395c2caa6a","John Doe",3000,"John Doe (equal), Jane Smith (percentage)","10/20/2024"
+"6714d15d40639b395c2caa71","John Doe",3000,"John Doe (exact), Jane Smith (exact)","10/20/2024"
